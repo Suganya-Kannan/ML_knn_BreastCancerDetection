@@ -14,3 +14,9 @@ might also provide greater detection accuracy by removing the inherently subject
 human component from the process. We will investigate the utility of machine learning
 for detecting cancer by applying the kNN algorithm to measurements of biopsied cells 
 from women with abnormal breast masses.
+
+
+In spite of the fact that kNN is a simple algorithm, it is capable of tackling extremely
+complex tasks, such as identifying cancerous masses. In a few simple lines of R
+code, we were able to correctly identify whether a mass was malignant or benign 98
+percent of the time.
